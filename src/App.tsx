@@ -13,8 +13,8 @@ function App() {
                 <img
                     className="lg:hidden absolute top-0 left-1/2 translate-x-[-50%]"
                     alt="Fametonik"
-                    src="/images/influe_mobile_mockup_sm.webp"
-                    srcSet="/images/influe_mobile_mockup_sm_2x.webp 1x, /images/influe_mobile_mockup_sm_2x.webp 2x"
+                    src="images/influe_mobile_mockup_sm.webp"
+                    srcSet="images/influe_mobile_mockup_sm_2x.webp 1x, images/influe_mobile_mockup_sm_2x.webp 2x"
                     loading="lazy"
                 />
                 <div className="pb-30 relative ">
@@ -40,7 +40,7 @@ function App() {
                                     <span className="line-clamp-3">
                                         Get started
                                      </span>
-                                        <img className="pl-2" src="/images/arrow.svg" alt="Arrow"/>
+                                        <img className="pl-2" src="images/arrow.svg" alt="Arrow"/>
                                     </ButtonLink>
                                 </div>
                                 <p className=" font-normal text-xs leading-[16px] text-center text-white pt-2.5 ">1-minute
@@ -50,8 +50,8 @@ function App() {
                         <img
                             className="hidden lg:block lg:absolute lg:right-[-112px] lg:top-[45px]"
                             alt="Fametonik"
-                            src="/images/influe_mobile_mockup_lg.webp"
-                            srcSet="/images/influe_mobile_mockup_lg.webp 1x, /images/influe_mobile_mockup_lg_2x.webp 2x"
+                            src="images/influe_mobile_mockup_lg.webp"
+                            srcSet="images/influe_mobile_mockup_lg.webp 1x, images/influe_mobile_mockup_lg_2x.webp 2x"
                             loading="lazy"
                         />
                     </div>

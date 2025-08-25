@@ -6,14 +6,14 @@ function Header() {
                 <img
                     className="w-[108px] h-[46px] mt-5 mb-5 lg:hidden"
                     alt="Logo"
-                    src="/images/logo_sm.webp"
-                    srcSet="/images/logo_sm.webp /images/logo_sm_2x.webp 2x"
+                    src="images/logo_sm.webp"
+                    srcSet="images/logo_sm.webp images/logo_sm_2x.webp 2x"
                 />
                 <img
                     className="w-[173px] h-[74px] hidden lg:block"
                     alt="Logo"
-                    src="/images/logo_lg.webp"
-                    srcSet="/images/logo_lg.webp /images/logo_lg_2x.webp 2x"
+                    src="images/logo_lg.webp"
+                    srcSet="images/logo_lg.webp images/logo_lg_2x.webp 2x"
                 />
                 <nav className="hidden lg:block">
                     <ul className="lg:flex lg:items-start space-x-12">
@@ -30,7 +30,7 @@ function Header() {
                     <img
                         className="w-5 h-4 mt-5 mb-5"
                         alt="Logo"
-                        src="/images/menu.svg"
+                        src="images/menu.svg"
                     />
                 </button>
             </div>
