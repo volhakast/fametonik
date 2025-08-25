@@ -1,5 +1,3 @@
-import React from 'react';
-
 interface PromotionListProps {
     className?: string;
     text?: string[];
