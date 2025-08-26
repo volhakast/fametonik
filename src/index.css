@@ -18,8 +18,8 @@
     --text-35: 2.1875rem;
     --shadow-button: 2px 2px 10px 0px var(--color-light-blue);
     --background-image-star: image-set(
-            url("images/star.webp") 1x,
-            url("images/star_2x.webp") 2x
+            url("/images/star.webp") 1x,
+            url("/images/star_2x.webp") 2x
     );
 }
 @utility bg-gradient-primary {
