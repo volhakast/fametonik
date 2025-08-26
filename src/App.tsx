@@ -20,8 +20,8 @@ function App() {
                 <div className="pb-12 lg:pb-30 relative ">
                     <Header/>
                     <div>
-                        <div className="mt-70 relative z-1 lg:max-w-130 lg:flex lg:flex-col lg:mt-0">
-                            <h2 className="font-urbanist text-white font-extrabold lg:font-bold text-25 text-center align-middle leading-[1.2] lg:text-left lg:text-35 lg:text-left lg:pt-14">
+                        <div className="mt-70 relative z-1 lg:max-w-130 lg:flex lg:flex-col lg:mt-0 lg:pt-14">
+                            <h2 className="font-urbanist text-white font-extrabold lg:font-bold text-25 text-center align-middle leading-[1.2] lg:text-left lg:text-35 lg:text-left ">
                                 Want to Turn Social Media Into a Profitable Career?
                             </h2>
                             <h1 className="font-urbanist font-extrabold lg:font-bold text-25 text-center align-middle text-shadow-header text-light-blue leading-[1.2] lg:text-35 lg:text-left">
