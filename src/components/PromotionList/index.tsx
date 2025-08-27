@@ -8,7 +8,7 @@ function PromotionList(props: PromotionListProps) {
     return (
         <ul className={`leading-[1.4] ${className}`}>
             {text?.map((t) => (
-                <li className="flex items-start mb-[10px] lg:mb-3 pl-8 relative before:content-[''] before:left-0 before:absolute before:top-1/2 before:-translate-y-1/2 before:block before:w-5 before:h-5 before:bg-star before:bg-contain before:bg-no-repeat">
+                <li key={t} className="flex items-start mb-[10px] lg:mb-3 pl-8 relative before:content-[''] before:left-0 before:absolute before:top-1/2 before:-translate-y-1/2 before:block before:w-5 before:h-5 before:bg-star before:bg-contain before:bg-no-repeat">
                     <p className="text-white lg:font-semibold">{t}</p>
                 </li>
             ))}
