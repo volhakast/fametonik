@@ -20,14 +20,14 @@ function App() {
                 <div className="pb-12 lg:pb-30 relative ">
                     <Header/>
                     <div>
-                        <div className="mt-70 relative z-1 lg:max-w-130 lg:flex lg:flex-col lg:mt-0 lg:pt-14">
+                        <div className="mt-70 relative z-1 lg:max-w-130 lg:flex lg:flex-col lg:mt-0 lg:pt-14.5 lg:pl-1">
                             <h2 className="font-urbanist text-white font-extrabold lg:font-bold text-25 text-center align-middle leading-[1.2] lg:text-left lg:text-35 lg:text-left ">
                                 Want to Turn Social Media Into a Profitable Career?
                             </h2>
                             <h1 className="font-urbanist font-extrabold lg:font-bold text-25 text-center align-middle text-shadow-header text-light-blue leading-[1.2] lg:text-35 lg:text-left">
                                 Discover your way to success with Fametonic:
                             </h1>
-                            <PromotionList className="mt-5 lg:mt-4.5" text={[
+                            <PromotionList className="mt-5 lg:mt-4" text={[
                                 'Start growing your influence right away—no waiting required!',
                                 'Create viral TikToks and Reels step by step with easy-to-follow lessons',
                                 'Use a Personal AI Worker to boost your content',

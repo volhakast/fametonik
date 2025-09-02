@@ -2,7 +2,7 @@ function Header() {
 
     return (
         <header className="relative">
-            <div className="flex flex-col lg:flex-row items-center lg:items-start lg:mt-8.5 lg:justify-between">
+            <div className="flex flex-col lg:flex-row items-center lg:items-start lg:mt-9 lg:justify-between">
                 <img
                     className="w-[108px] h-[46px] mt-5 mb-5 lg:hidden"
                     alt="Logo"

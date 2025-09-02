@@ -1,6 +1,6 @@
 function PromotionStripe() {
   return (
-      <div className="gradient-bg flex items-center text-white text-center bg-gradient-primary py-5 px-5 lg:py-2">
+      <div className="gradient-bg flex items-center text-white text-center bg-gradient-primary py-5 px-5 lg:py-1.5">
           <div className="max-w-main mx-auto">
               <h3 className="leading-none">
                   <span className="text-base font-extrabold text-light-blue lg:text-22">🚀 FRESH BEGINNINGS SALE:</span>
